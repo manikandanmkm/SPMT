@@ -1,0 +1,2 @@
+# SPMT
+Interest calculation chart
